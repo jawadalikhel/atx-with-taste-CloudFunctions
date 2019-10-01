@@ -1,0 +1,24 @@
+{
+  "name": "google-cloud-functions",
+  "version": "1.0.0",
+  "description": "cloud functions for atxWithTaste",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jawadalikhel/atx-with-taste-CloudFunctions.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jawadalikhel/atx-with-taste-CloudFunctions/issues"
+  },
+  "homepage": "https://github.com/jawadalikhel/atx-with-taste-CloudFunctions#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "firebase-admin": "^8.6.0",
+    "node-fetch": "^2.6.0"
+  }
+}
