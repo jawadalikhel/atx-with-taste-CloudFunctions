@@ -19,6 +19,6 @@
   "dependencies": {
     "cors": "^2.8.5",
     "firebase-admin": "^8.6.0",
-    "node-fetch": "^2.6.0"
+    "node-fetch": "^2.6.1"
   }
 }
